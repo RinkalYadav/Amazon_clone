@@ -6,4 +6,4 @@ Author - Rinkal Yadav
 This is a simple project built with HTML, CSS , JS and deployed on Netlify.
 
 ## Project Live Demo:
-You can view the live demo of the project here: [Deployed Project on Netlify](https://amzaonclone1.netlify.app/)
+You can view the live demo of the project here: [Deployed Project on Netlify](https://amazonclonerinkal.netlify.app/)
